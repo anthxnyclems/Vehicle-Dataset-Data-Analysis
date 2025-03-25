@@ -39,7 +39,7 @@ Requirements
 
 To run the analysis, install the necessary dependencies:
 
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+_pip install pandas numpy matplotlib seaborn scikit-learn jupyter_
 
 Running the Notebook
 
